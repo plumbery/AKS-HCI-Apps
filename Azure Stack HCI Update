@@ -1,1 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2023-02-08T08:42:45.715Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.78" version="20.8.18" etag="ijxuiZ-GlEVF1Kcn0zBU" type="github"><diagram name="Page-1" id="buXoElhbd_ZvPJOwruF9">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-08T08:59:52.678Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.78" etag="qkSEdWs_xlDwn7Ii13jC" version="20.8.18" type="github">
+  <diagram name="Page-1" id="buXoElhbd_ZvPJOwruF9">
+    <mxGraphModel dx="600" dy="327" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FTfFrfLvcIY4VQ8i1KXv-4" value="Azure Stack HCI version 21H2" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_on_premise;strokeColor=#5A6C86;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#5A6C86;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="175" width="165" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="FTfFrfLvcIY4VQ8i1KXv-12" value="" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.dell.poweredge_r740xd;" vertex="1" parent="FTfFrfLvcIY4VQ8i1KXv-4">
+          <mxGeometry y="40" width="162" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FTfFrfLvcIY4VQ8i1KXv-13" value="" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.dell.poweredge_r740xd;" vertex="1" parent="FTfFrfLvcIY4VQ8i1KXv-4">
+          <mxGeometry y="70" width="162" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FTfFrfLvcIY4VQ8i1KXv-14" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Kubernetes_Services.svg;" vertex="1" parent="FTfFrfLvcIY4VQ8i1KXv-4">
+          <mxGeometry x="64" y="110" width="34" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
